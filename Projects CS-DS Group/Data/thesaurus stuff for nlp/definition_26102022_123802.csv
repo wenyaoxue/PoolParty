@@ -1,0 +1,772 @@
+,word,i,def
+0,Articulate,0,Having or showing the ability to speak fluently and coherently
+1,Articulate,1,Tending to talk a lot
+2,Articulate,2,Communicated in a verbal manner
+3,Articulate,3,Easy to understand
+4,Articulate,4,"Showy in speech, language or writing"
+5,Articulate,5,"Characterized by or capable of clear, sound reasoning"
+6,Articulate,6,"Poised or dignified in style, tone, or form"
+7,Articulate,7,Expressing opinions or feelings freely or loudly
+8,Articulate,8,Well written
+9,Articulate,9,Having two or more sections connected by a flexible joint
+10,Articulate,10,Able to speak or write a particular foreign language easily and accurately
+11,Articulate,11,To convey or express in a particular way or manner
+12,Articulate,12,(usually anatomy) To form a joint or connect by joints
+13,Articulate,13,To stress or emphasize
+14,Economical,0,Characterized by economy and good management of money and resources
+15,Economical,1,Giving good value or return in relation to cost
+16,Economical,2,Very simple or plain in form or design
+17,Economical,3,Significantly below an amount or level that is adequate
+18,Economical,4,Giving good value or return in relation to time or effort expended
+19,Economical,5,"Brief, concise, and to the point"
+20,Economical,6,Returning a benefit that justifies the initial investment
+21,Economical,7,Not ostentatious
+22,Economical,8,Relating to the government or public affairs of a country
+23,Calm,0,Tranquil in nature
+24,Calm,1,"Free from negative emotions, such as anger"
+25,Calm,2,Free from mental or emotional distress
+26,Calm,3,Free from noise
+27,Calm,4,(of waters) Still in nature
+28,Calm,5,Having a gently calming effect
+29,Calm,6,Done or happening without haste or in a leisurely manner
+30,Calm,7,"Feeling, or wanting to feel, optimism about a future event"
+31,Calm,8,(of one's conscience) Free of guilt
+32,Calm,9,A state of peacefulness
+33,Calm,10,"A state of being composed, typically in the face of adversity"
+34,Calm,11,A state of being free from noise
+35,Calm,12,The quality or state of being noiseless
+36,Calm,13,Freedom from worries or problems
+37,Calm,14,Freedom from civil unrest
+38,Calm,15,A period or state of inactivity
+39,Calm,16,The property of being motionless
+40,Calm,17,The quality of being staid or solemn
+41,Calm,18,To free from disturbance
+42,Calm,19,To restore emotional balance
+43,Calm,20,(calm down) To become calm (after feeling agitation or stress)
+44,Calm,21,"To free from fear, doubt or anxiety"
+45,Studious,0,Spending a lot of time studying or reading
+46,Studious,1,Showing great care or attention
+47,Studious,2,Done deliberately or with a purpose in mind
+48,Studious,3,"Directing a great deal of attention, interest, or activity towards a particular aim"
+49,Studious,4,Expressing or involving deep thought
+50,Studious,5,Having or showing a deeply inquisitive nature or intent
+51,Studious,6,Devoted to a task or purpose
+52,Studious,7,"Serious, thoughtful or earnest in appearance"
+53,Intelligent,0,Having or showing a reasonable or high level of intellect
+54,Intelligent,1,Possessing insight
+55,Intelligent,2,Clever in surreptitious behavior
+56,Intelligent,3,Having the ability of reasoning or thought
+57,Intelligent,4,(especially in conduct or speech) Exhibiting good judgment and restraint
+58,Intelligent,5,Possessing a reasonable or high level of artificial intelligence
+59,Intelligent,6,Quick to notice or perceive things
+60,Intelligent,7,Funny and clever
+61,Intelligent,8,"Having a vigorous, independent will and views"
+62,Intelligent,9,"Intellectuals or highly educated people as a group, especially when regarded as possessing culture and political influence"
+63,Clear,0,Easy to understand
+64,Clear,1,Clearly or explicitly expressed or defined
+65,Clear,2,Free from ambiguity
+66,Clear,3,Very specific or precise
+67,Clear,4,To be in certain in one's mind
+68,Clear,5,Transparent or unclouded
+69,Clear,6,To stand out from being far superior to one's peers
+70,Clear,7,"Free of cloud, mist, or rain"
+71,Clear,8,"Without defects or blemishes, including freckles or knots"
+72,Clear,9,(of a sound or voice) Audibly distinct
+73,Clear,10,Open and unimpeded by obstructions
+74,Clear,11,"Empty, free of people or things"
+75,Clear,12,Free of something undesirable
+76,Clear,13,(of one's conscience) Free of guilt
+77,Clear,14,Complete or full
+78,Clear,15,Giving off or reflecting light
+79,Clear,16,Visibly noticeable
+80,Clear,17,Having the ability to perceive clearly
+81,Clear,18,(especially of a title) Free from any encumbrance or limitation that presents a question of fact or law
+82,Clear,19,Reasonable and convincing
+83,Clear,20,"Characterized by fullness, strength and depth, especially of sound"
+84,Clear,21,Very easy or involving minimal effort
+85,Clear,22,Serving to resolve or settle something
+86,Clear,23,"Producing powerful feelings or strong, clear images in the mind"
+87,Clear,24,"Done in a systematic way, using experiments or tests"
+88,Clear,25,Having a harmonious sound
+89,Clear,26,"Optimistic or positive, especially in an apparently bad or difficult situation"
+90,Clear,27,"(of sound) Clear and vibrant, typically high-pitched"
+91,Clear,28,Not likely to harm or injure
+92,Clear,29,Vigorously keen or severe in expression or style
+93,Clear,30,Exempt from an obligation
+94,Clear,31,In an empty or unmarked condition
+95,Clear,32,Eloquent and able with regards to speech
+96,Clear,33,Able to be navigated through or traveled on
+97,Clear,34,(of sound or color) Free from anything that dulls or dims
+98,Clear,35,Made easy
+99,Clear,36,Without clutter
+100,Clear,37,Not closed or fastened
+101,Clear,38,(of profit or earnings) Remaining after the deduction of tax or other contributions
+102,Clear,39,"Of facial complexion, smooth, with attractive yellow-pink coloring"
+103,Clear,40,"In an auditorium or sports venue, the line of side-by-side seats closest to the stage, playing field, or other location where the activity of interest is occurring"
+104,Clear,41,Free from physical restraint or confinement
+105,Clear,42,Having normal visual acuity
+106,Clear,43,Without harm or punishment
+107,Clear,44,Empty of meaning or value
+108,Clear,45,"Bright and colorless, due to the reflection of all visible rays of light"
+109,Clear,46,Bare or exposed without a covering or protection
+110,Clear,47,Tranquil in nature
+111,Clear,48,Offering or producing the greatest advantage
+112,Clear,49,(of the weather) To become brighter
+113,Clear,50,To gradually go away or disappear
+114,Clear,51,To remove unwanted items from
+115,Clear,52,To rid an area of obstructions
+116,Clear,53,To empty a given space
+117,Clear,54,To cause people to leave a building or place
+118,Clear,55,To pay off one's debts
+119,Clear,56,To physically get or pass over something
+120,Clear,57,To remove from suspicion
+121,Clear,58,To provide authorization or clearance to
+122,Clear,59,To earn a profit of
+123,Clear,60,To remove impurities from
+124,Clear,61,To unclog something tubular or cylindrical
+125,Clear,62,(clear up) To cause to be clear from ambiguity
+126,Clear,63,To make someone (or a group) familiar with or knowledgeable about something
+127,Clear,64,To physically remove or eliminate
+128,Clear,65,"To set free, especially from entanglement or difficulty"
+129,Clear,66,To unload or empty out (from a container)
+130,Clear,67,To make available
+131,Clear,68,To pat lightly and quickly to clean or wipe away
+132,Clear,69,To find a way through (an obstacle or difficult route)
+133,Clear,70,To clean by sweeping
+134,Clear,71,To remove people from a place
+135,Clear,72,To clear a check when due
+136,Clear,73,Pick over
+137,Clear,74,Remove fog
+138,Clear,75,To make not set
+139,Clear,76,"To move, demolish, or flatten with a bulldozer"
+140,Clear,77,To move or depart to another place
+141,Clear,78,To put away or aside (for later use)
+142,Clear,79,To climb up or over (something high and steep)
+143,Clear,80,To become open
+144,Clear,81,To run away
+145,Clear,82,To remove or undo a snarl or tangle
+146,Clear,83,To escape or get away from
+147,Clear,84,To throw away or remove (something) from a place or container
+148,Clear,85,To send away or order to leave
+149,Clear,86,To kill or take the life of
+150,Clear,87,To separate or cause to be separated into constituent parts or components
+151,Clear,88,To wash something by rinsing or flooding with water
+152,Clear,89,(of colors) To render pale or less bright
+153,Clear,90,To show or prove to be right or reasonable
+154,Clear,91,To peel or remove the outer layer of
+155,Clear,92,To make smooth or glossy by applying surface pressure
+156,Clear,93,To bring or come to an end
+157,Clear,94,(clear of) So as to be out of the way of or away from
+158,Clear,95,In a manner that is clear and intelligible
+159,Clear,96,All the way
+160,Clear,97,From start to finish
+161,Clear,98,"At a distance (away), literally or figuratively"
+162,Clear,99,An act of sweeping or clearing away with a brush or with one's hand
+163,Multifaceted,0,Having multiple facets or able to do many things
+164,Multifaceted,1,"Deriving ideas, style, or taste from a broad and diverse range of sources"
+165,Multifaceted,2,"Made up, or consisting of, several parts or elements"
+166,Multifaceted,3,Made up of a complex mix of elements
+167,Multifaceted,4,Having many facets
+168,Multifaceted,5,Built or designed with a high level of creativity or knowledge
+169,Advanced,0,Being advanced in development
+170,Advanced,1,Past the level of being elementary
+171,Advanced,2,(education) Past the level of being elementary
+172,Advanced,3,Marked by refined and cultured behavior
+173,Advanced,4,Completed before need or a milestone event
+174,Advanced,5,"Able to produce results, or cause effects"
+175,Advanced,6,Happening or done before the usual or expected time
+176,Advanced,7,"Bearing good value, worth or reliability"
+177,Advanced,8,Advocating political or social changes and reforms associated with liberalism
+178,Advanced,9,"Extremely unconventional, unusual, or avant-garde"
+179,Advanced,10,Fully developed
+180,Advanced,11,"In an old, advanced or mature state or age"
+181,Advanced,12,Having received for temporary use
+182,Advanced,13,Not conservative
+183,Advanced,14,Submitted for consideration or approval
+184,Advanced,15,Relating to or denoting a course of study undertaken after completing a first degree
+185,Advanced,16,Showing willingness to allow the existence of opinions or behaviour that one does not necessarily agree with
+186,Advanced,17,Comprehensive and far-reaching in nature
+187,Advanced,18,In a leading position
+188,Advanced,19,Having much experience in a particular field
+189,Advanced,20,(led to) To have culminated or resulted in a particular event or consequence
+190,Advanced,21,To have made a quantity bigger
+191,Advanced,22,To have put forward one's questions
+192,Advanced,23,To have enacted or established
+193,Advanced,24,"To have furnished with, or caused to be present"
+194,Advanced,25,To have invested in or provided financial assistance
+195,Advanced,26,To have gradually increased in detail
+196,Advanced,27,To have made a claim
+197,Advanced,28,"To have headed straight towards a specified direction or object, usually at an accelerated speed"
+198,Advanced,29,To have designed with a new shape or form
+199,Advanced,30,Past tense for to move forward
+200,Advanced,31,"Past tense for to come or go near, or nearer to, in place or time"
+201,Advanced,32,Past tense for to re-schedule at an earlier time or date
+202,Advanced,33,Ahead of the correct time or schedule
+203,Flexible,0,Capable of bending easily without breaking
+204,Flexible,1,Able to be easily modified to respond to altered circumstances
+205,Flexible,2,Willing or prone to give way to the influence of others
+206,Flexible,3,"Having a relaxed, friendly, or unofficial style, manner, or nature"
+207,Flexible,4,Physically nimble and quick
+208,Flexible,5,"Tolerant of, or open to, new or opposing viewpoints"
+209,Flexible,6,Not fixed in place tightly or firmly
+210,Flexible,7,Quick or likely to change consistently
+211,Flexible,8,"Broadly construed or understood, not strictly literal or exact"
+212,Flexible,9,Open to discussion or modification
+213,Flexible,10,Extremely limber or flexible
+214,Flexible,11,Flexible
+215,Flexible,12,Reedy or elongated
+216,Flexible,13,Not limited or restricted
+217,Flexible,14,Capable of being moved
+218,Flexible,15,(of a person) Having many skills
+219,Flexible,16,Having two or more sections connected by a flexible joint
+220,Flexible,17,"Left to, or regulated by, one's own discretion or judgment"
+221,Amiable,0,Having or displaying a friendly and pleasant manner
+222,Amiable,1,Having a considerate or kindly disposition
+223,Amiable,2,Of or pertaining to pacifism
+224,Amiable,3,"Loudly cheerful, enthusiastic or approbatory"
+225,Amiable,4,Very pleasant or enjoyable
+226,Amiable,5,Happy or carefree
+227,Amiable,6,Readily conforming to the authority or will of others
+228,Personable,0,"Having appeal in an endearing, sweet or lovable way"
+229,Personable,1,(of a man) Aesthetically pleasing to view or look at
+230,Passionate,0,Marked by strong and intense feelings or emotions
+231,Passionate,1,Marked by intense feelings of a romantic nature
+232,Passionate,2,Susceptible to anger or prone to getting on the defensive
+233,Passionate,3,Having an unwavering devotion
+234,Passionate,4,"Responding readily to something new or stimulating, especially temperamentally"
+235,Passionate,5,Affected by or deriving from wildly uncontrolled emotion
+236,Passionate,6,"Loudly cheerful, enthusiastic or approbatory"
+237,Passionate,7,Attached to someone or something in a neurotic or pathological manner
+238,Passionate,8,"Causing emotion, excitement, and enthusiasm"
+239,Passionate,9,"Having or arousing feelings of tenderness, sadness, or nostalgia, typically in an exaggerated and self-indulgent way"
+240,Passionate,10,Acting or done quickly and without thought or care
+241,Passionate,11,"Tending to, or intended to, arouse lustful desire or interest"
+242,Passionate,12,Without artificiality or insincerity
+243,Passionate,13,Extreme or severe
+244,Passionate,14,Characterized by giving love and affection
+245,Passionate,15,Impassionate or dispassionate
+246,Passionate,16,Having a bad temper
+247,Passionate,17,Feeling great anger or rage
+248,Detailed,0,Having many details
+249,Detailed,1,"Detailed and complicated in design and planning, involving many carefully arranged elements"
+250,Detailed,2,Accurate or correct in all details
+251,Detailed,3,Constituting or referring to all of something
+252,Detailed,4,Giving clear and vividly explicit details
+253,Detailed,5,Clearly expressed or identified
+254,Detailed,6,Visually impressive or showy
+255,Detailed,7,Involving the use of exaggerated or flowery writing or language
+256,Detailed,8,"Very fine in texture or structure, especially of intricate workmanship or quality"
+257,Detailed,9,Containing lots of news
+258,Detailed,10,"(literally or figuratively) Very great in size, amount, degree, intensity, or extent"
+259,Detailed,11,Capable of making fine distinctions
+260,Detailed,12,(archaic) To have revealed (information)
+261,Detailed,13,To have expressed in greater detail
+262,Detailed,14,To have depicted pictorially or artistically
+263,Detailed,15,To have established or stipulated as a previous condition
+264,Detailed,16,To have conveyed in appropriate or telling terms
+265,Detailed,17,Past tense for to provide full information about
+266,Detailed,18,(typically military) Past tense for to assign (someone) to a specific task
+267,Controlled,0,"Coordinated, or done under supervision or control"
+268,Controlled,1,Done or operating within certain limits or restrictions
+269,Controlled,2,Having control over one's emotions or temperament
+270,Controlled,3,Showing self-restraint or abstemious moderation
+271,Controlled,4,(of a person) Calm and self-controlled
+272,Controlled,5,"(of a rule or discipline) Rigidly enforced, typically demanding total obedience or observance"
+273,Controlled,6,In an organized manner
+274,Controlled,7,"Polite, compliant, or generally well-behaved"
+275,Controlled,8,Careful and prudent in one's speech or actions
+276,Controlled,9,"To be continuously haunted or possessed by something, especially negative emotions, ideas or desires"
+277,Controlled,10,Regulated or controlled
+278,Controlled,11,Being at the mercy of
+279,Controlled,12,Not excessively showy or lively
+280,Controlled,13,"Of, supporting, or pertaining to traditionalism"
+281,Controlled,14,Hierarchic or hierarchical
+282,Controlled,15,Forbidden or not permitted
+283,Controlled,16,Having sound or fair judgment based on good sense
+284,Controlled,17,Conducted without violence
+285,Controlled,18,Done or performed with a conscious purpose or intent
+286,Controlled,19,"Unnatural, awkward or contrived in nature or behavior"
+287,Controlled,20,(of information) Protected from being made public
+288,Controlled,21,"Containing only relevant parts, brief and controlled"
+289,Controlled,22,To have been in charge or command of
+290,Controlled,23,To have convinced or manipulated
+291,Controlled,24,To have determined or dictated
+292,Controlled,25,"To be cunningly tricked into doing something, usually in an incriminating way"
+293,Controlled,26,To have prevented oneself from
+294,Controlled,27,To have exploited someone for one's personal gain
+295,Controlled,28,Past tense for to operate a machine or device
+296,Controlled,29,Past tense for to restrain or to keep in check
+297,Steadfast,0,Resolutely or dutifully firm and unwavering
+298,Steadfast,1,Firm or resolute in one's views or beliefs
+299,Steadfast,2,Physically fixed or immovable
+300,Steadfast,3,Lasting or intended to last and remain unchanged
+301,Steadfast,4,Marked by strong and intense feelings or emotions
+302,Steadfast,5,"At rest, stationary, immobile, not moving"
+303,Skillful,0,"Displaying outstanding skill, knowledge, or experience in a given field"
+304,Skillful,1,Very good in standard or quality
+305,Skillful,2,Having or showing shrewdness and good judgment
+306,Skillful,3,Able to deal with people in a sensitive manner
+307,Skillful,4,Providing a faithful representation of someone or something
+308,Skillful,5,Having a good or detailed knowledge of
+309,Skillful,6,"Detailed and complicated in design and planning, involving many carefully arranged elements"
+310,Skillful,7,Physically nimble and quick
+311,Skillful,8,Visually impressive or showy
+312,Quality,0,An attribute of a thing or person
+313,Quality,1,The state of having a high degree of excellence
+314,Quality,2,A measure of excellence
+315,Quality,3,(archaic) The class of people having an aristocratic status
+316,Quality,4,A distinct impression or quality associated with something
+317,Quality,5,"An object or person's type, class or category"
+318,Quality,6,The action or fact of becoming qualified as a recognized practitioner of a profession or activity
+319,Quality,7,The feel or characteristics of a surface or object
+320,Quality,8,The usefulness of benefit that something provides
+321,Quality,9,"The amount, level, or extent to which something happens or is present"
+322,Quality,10,"A skill, talent or ability that provides one with a distinct advantage"
+323,Quality,11,A great level of skill or ability
+324,Quality,12,A way or manner in which something occurs or is done or experienced
+325,Quality,13,The quality of being noble or honorable in character or virtue
+326,Quality,14,A group that is superior in terms of ability or qualities to the rest of a similar group
+327,Quality,15,"The natural colour, texture, and appearance of a person's skin, especially of the face"
+328,Quality,16,Courage or spirit
+329,Quality,17,"Bearing good value, worth or reliability"
+330,Quality,18,Being a person of good repute and character
+331,Quality,19,"Consisting of, covered with, or disintegrating into a fine powder"
+332,Extensive,0,Large in amount or scale
+333,Extensive,1,Covering or affecting a large area
+334,Extensive,2,"Profuse, abundant, or vast in quantity or number"
+335,Extensive,3,Of very great size or extent
+336,Extensive,4,"Lasting for a long time, or longer than expected or usual"
+337,Extensive,5,Involving great effort or determination
+338,Extensive,6,Widespread in a particular area or at a particular time
+339,Extensive,7,Complimentary or flattering to an excessive degree
+340,Extensive,8,"Detailed and complicated in design and planning, involving many carefully arranged elements"
+341,Extensive,9,"Predominant in influence, number, or importance"
+342,Extensive,10,Denoting a high degree of seriousness
+343,Extensive,11,Regularly moving or wandering from place to place
+344,Extensive,12,Extending or growing in an outward direction or movement
+345,Constructive,0,Carefully considered and meant to be helpful
+346,Constructive,1,Advantageous to one's aims or goals
+347,Constructive,2,Suggested without being stated directly
+348,Constructive,3,Capable of forming something
+349,Constructive,4,Producing new ideas or products
+350,Constructive,5,Pertaining to architecture
+351,Constructive,6,Beneficial to one's health
+352,Constructive,7,"Relating to intellectual or artistic progress, advancement or achievements"
+353,Novel,0,Interestingly new or unusual
+354,Novel,1,Causing laughter and providing entertainment
+355,Novel,2,"Not yet used, done, or tested"
+356,Novel,3,A fictitious prose narrative
+357,Novel,4,(a book) A product that's just been made available to the public
+358,Novel,5,"Written works, especially those considered of superior or lasting artistic merit"
+359,Novel,6,A written work
+360,Novel,7,A book or film dealing with love in a sentimental or idealized way
+361,Agile,0,Able to move quickly and easily
+362,Agile,1,Able to think and understand quickly
+363,Agile,2,Having much high-spirited energy
+364,Agile,3,(of a person) Possessing strength and athleticism
+365,Agile,4,Lean or skinny in build
+366,Agile,5,Bitingly or humorously intelligent in nature
+367,Robust,0,(of an object) Sturdy in construction
+368,Robust,1,(of a person) Being strong and healthy
+369,Robust,2,Strong and rich in flavor or smell
+370,Robust,3,Not given to or confused by uncertainty or subtlety
+371,Robust,4,Rough or boisterous in nature
+372,Robust,5,Consisting of matter all through
+373,Robust,6,Having a period of great prosperity or rapid economic growth
+374,Robust,7,"Natural, unsentimental and straightforward, without artificiality or pretension"
+375,Robust,8,Behaving or done in a determined and forceful way
+376,Robust,9,Full of energy and life
+377,Robust,10,Characterized by great power or forceful
+378,Robust,11,Pertaining to the works or period of Rabelais
+379,Robust,12,Powerful or rich in volume and sound
+380,Robust,13,Providing great utility or usefulness
+381,Robust,14,(of a man) Aesthetically pleasing to view or look at
+382,Robust,15,Severe or harsh in nature
+383,Diligent,0,Having or showing care and conscientiousness in one's work or duties
+384,Diligent,1,Having a determined or persistent nature
+385,Diligent,2,Preoccupied with something to the exclusion of everything else
+386,Diligent,3,"Having or showing boldness, ambition and initiative in achieving a goal"
+387,Diligent,4,Having or showing eagerness or enthusiasm towards an activity
+388,Diligent,5,Never relaxing or slackening
+389,Diligent,6,Completed or done with efficiency
+390,Diligent,7,Done with meticulousness and extreme attention to detail
+391,Diligent,8,"Characterized by extreme force, degree, or strength"
+392,Diligent,9,Reliable or constant
+393,Diligent,10,"Having or indicating an efficient, practical, and systematic approach to one's work or a task"
+394,Meticulous,0,"Characterized by very precise, conscientious attention to details"
+395,Meticulous,1,Arranged or carried out with a planned or organized method or procedure
+396,Meticulous,2,Including or considering all elements or aspects
+397,Meticulous,3,"Arranged neatly and in order, or inclined to keep things neat and in order"
+398,Meticulous,4,"Free from flaws, defects or errors"
+399,Meticulous,5,Displaying logic and common sense
+400,Meticulous,6,"Affectedly proper, or formal, and rather prudish"
+401,Meticulous,7,Sparing or economical with money
+402,Methodical,0,In an organized manner
+403,Methodical,1,Involving analysis or logical thinking
+404,Methodical,2,Clean and tidy in appearance or character
+405,Methodical,3,Showing great attention to detail
+406,Methodical,4,Marked by a person's overall balance in skill and ability from a performance
+407,Methodical,5,Involving great effort or determination
+408,Methodical,6,Reasonable and convincing
+409,Methodical,7,Regular and even throughout
+410,Methodical,8,Done with full awareness of the likely consequences
+411,Methodical,9,Involving or using a methodical approach
+412,Methodical,10,Even-tempered and reasonable
+413,Methodical,11,Done regularly and repeatedly
+414,Enterprising,0,Having an ingenious ability to put available resources to use
+415,Enterprising,1,"Having or showing boldness, ambition and initiative in achieving a goal"
+416,Enterprising,2,Having an adventurous spirit in the pursuit of one's goals
+417,Enterprising,3,Ambitious or driven towards a particular goal
+418,Enterprising,4,Determined and assertive in nature
+419,Enterprising,5,Having or showing determination or resolve
+420,Enterprising,6,Displaying a creative streak for a given activity
+421,Enterprising,7,Involving active participation
+422,Enterprising,8,Beginning to attract attention or critical acclaim
+423,Enterprising,9,Technologically advanced or developed
+424,Enterprising,10,"Having or indicating an efficient, practical, and systematic approach to one's work or a task"
+425,Pleasant,0,Giving a sense of happy satisfaction or enjoyment
+426,Pleasant,1,"Having an easygoing and pleasing manner, especially in social situations"
+427,Pleasant,2,Causing laughter and providing entertainment
+428,Pleasant,3,Advantageous to one's aims or goals
+429,Pleasant,4,"Marked by charm, confidence and elegance"
+430,Pleasant,5,"(of a place, period of time, or situation) Without disturbance, activity or excitement"
+431,Pleasant,6,Noticeably happy and optimistic
+432,Pleasant,7,Experiencing or feeling happiness or joy
+433,Pleasant,8,Not cloudy
+434,Pleasant,9,Melodiously or musically soft and sweet
+435,Pleasant,10,(of a place) Pleasant
+436,Pleasant,11,Of an acceptable or satisfactory standard
+437,Pleasant,12,Pleasing or satisfying
+438,Pleasant,13,Inoffensive in nature
+439,Pleasant,14,Popular or in demand
+440,Pleasant,15,(of a lifestyle) Not having financial stress
+441,Pleasant,16,Able to be borne
+442,Pleasant,17,(of the climate) Pleasantly refreshing and cool
+443,Pleasant,18,Pleasant
+444,Persistent,0,Continuing stubbornly in an opinion or course of action in spite of challenges
+445,Persistent,1,Continuing to exist or occur over a prolonged period
+446,Persistent,2,"Hard-working, diligent or regular (in attendance or work)"
+447,Persistent,3,"Happening regularly, time after time"
+448,Persistent,4,"Being such by habit, long-established, and not likely to change"
+449,Persistent,5,(of a person or their behaviour) Not able to be changed or reformed
+450,Persistent,6,Extending or continuing over a relatively long time period
+451,Persistent,7,"Having the ability to accept or tolerate delays, problems, or suffering"
+452,Persistent,8,Very difficult or impossible to forget
+453,Persistent,9,"Slight or subtle, but nagging or persistent"
+454,Persistent,10,"To a total, utter or complete degree"
+455,Persistent,11,"Not susceptible to corruption, especially by bribery"
+456,Persistent,12,Succeeding or following in order
+457,Persistent,13,Unable to be stopped
+458,Groundbreaking,0,Doing something that has never been done before
+459,Groundbreaking,1,"Related to, or caused by an earthquake or other vibration of the Earth"
+460,Groundbreaking,2,Criticizing or attacking cherished beliefs or institutions
+461,Groundbreaking,3,Generating a sense of pride
+462,Adaptable,0,Able to be modified for a new use or purpose
+463,Adaptable,1,Able to do many things or accommodate various situations
+464,Adaptable,2,"Characterized by obedience, subservience, or readiness to accept instruction or direction"
+465,Adaptable,3,Capable of bending easily without breaking
+466,Adaptable,4,Quick or likely to change consistently
+467,Adaptable,5,Well-meaning and kindly in nature
+468,Adaptable,6,Easily managed
+469,Adaptable,7,Able to be utilized
+470,Adaptable,8,(of a person) Easily influenced by feelings or emotions
+471,Adaptable,9,"Consistent, compatible, or in agreement with something or someone else"
+472,Adaptable,10,Taking advantage of situations that arise
+473,Adaptable,11,Capable of being moved
+474,Adaptable,12,Able to be expanded or extended
+475,Innovative,0,Involving the use of innovation or imagination during the process of creation
+476,Innovative,1,Unusual or unconventional in manner or character
+477,Innovative,2,Criticizing or attacking cherished beliefs or institutions
+478,Orderly,0,Arranged or carried out with a planned or organized method or procedure
+479,Orderly,1,Neat and tidy in nature or appearance
+480,Orderly,2,"Polite, compliant, or generally well-behaved"
+481,Orderly,3,Regular and even throughout
+482,Orderly,4,Reasonable and convincing
+483,Orderly,5,"Upstanding, especially law-abiding"
+484,Orderly,6,"Peaceful, free from conflict or hostilities"
+485,Orderly,7,"Pertaining to points, lines, angels and figures used in geometry"
+486,Orderly,8,Characterized by conventional forms of ceremony and behavior
+487,Orderly,9,Being clear enough to read
+488,Orderly,10,"Realistic and pragmatic, rather than fashionable or attractive"
+489,Orderly,11,Even-tempered and reasonable
+490,Orderly,12,Able to be read or deciphered
+491,Orderly,13,"Done or made with, or characterized by, care and precision"
+492,Orderly,14,Typical or expected of something or someone
+493,Orderly,15,Perfect order
+494,Orderly,16,"A person who assists, guides, or provides a service"
+495,Orderly,17,In a graceful manner
+496,Honest,0,Free of deceit
+497,Honest,1,Truthful without regard to one's feelings
+498,Honest,2,Morally virtuous with regard to the truth
+499,Honest,3,Exactly as claimed
+500,Honest,4,Fair and balanced
+501,Honest,5,Simple and unpretentious
+502,Honest,6,(of an action) Done without malice despite any undesirable results
+503,Honest,7,Free from exaggeration or distortion
+504,Honest,8,"Real or genuine, in accordance with the truth, facts or standards"
+505,Honest,9,Aggressively vigorous or forceful
+506,Honest,10,Not flattering
+507,Honest,11,(of an emotion or feeling) Intensely felt
+508,Honest,12,"Loudly cheerful, enthusiastic or approbatory"
+509,Honest,13,Most intimate or private
+510,Honest,14,Totally fairly and undoubtedly
+511,Respectful,0,Feeling or showing deference and respect
+512,Respectful,1,Willing to assist or give aid
+513,Respectful,2,Having a considerate or kindly disposition
+514,Respectful,3,Conscious or aware of something
+515,Respectful,4,Able to deal with people in a sensitive manner
+516,Respectful,5,Expressed appreciatively or as a compliment
+517,Respectful,6,Having or showing a modest or low estimate of one's importance
+518,Respectful,7,Deemed acceptable or appropriate by society
+519,Respectful,8,Tending to worship
+520,Respectful,9,"Upstanding, especially law-abiding"
+521,Respectful,10,Obedient or attentive to an excessive or servile degree
+522,Fluent,0,Able to express oneself easily and articulately
+523,Fluent,1,Able to speak or write a particular foreign language easily and accurately
+524,Fluent,2,Smoothly graceful and effortless
+525,Fluent,3,"Requiring little effort, or encountering minimal resistance"
+526,Fluent,4,Tending to talk a lot
+527,Fluent,5,"Fluent and easy, often in an insincere or deceptive way"
+528,Fluent,6,Pronounced or flowing without any jar or harshness
+529,Fluent,7,Competent or skilled in doing or using something
+530,Fluent,8,"Of a substance that is flowing, and keeping no shape, such as water"
+531,Fluent,9,Bilingual or multilingual
+532,Fluent,10,Free from interruptions or stoppages
+533,Fluent,11,Expressed in terms intended to persuade or impress
+534,Fluent,12,Able to be read or deciphered
+535,Fluent,13,Expressing opinions or feelings freely or loudly
+536,Fluent,14,Expressive or eloquent in nature
+537,Qualified,0,Having the relevant or required qualifications or skills
+538,Qualified,1,Not complete or absolute
+539,Qualified,2,Appropriate or suitable in the circumstances
+540,Qualified,3,Of or relating to comparison
+541,Qualified,4,Given official approval after meeting certain standards
+542,Qualified,5,Not having all the necessary or appropriate parts
+543,Qualified,6,(of a person) Pertaining to one who makes a living from a particular activity
+544,Qualified,7,"Arranged or existing for the present, possibly to be changed later"
+545,Qualified,8,"Experienced or shrewd, especially excessively or prematurely so"
+546,Qualified,9,Ready and willing
+547,Qualified,10,"Diluted or weakened, especially with water"
+548,Qualified,11,Clearly expressed or identified
+549,Qualified,12,Constrained under authority or power
+550,Qualified,13,Having been changed from an original form
+551,Qualified,14,Successful in producing a desired or intended result
+552,Qualified,15,Kept (in reserve) specially for a particular person
+553,Qualified,16,Capable of being trusted
+554,Qualified,17,To have permitted (someone) to have or do something
+555,Qualified,18,Past tense for to bestow legal or official authority to
+556,Qualified,19,Past tense for to gain accreditation for something by passing a test or exam
+557,Qualified,20,"Past tense for to make, or become, competent or prepared for some position or task"
+558,Qualified,21,Past tense for to be entitled to a particular benefit or privilege by fulfilling a necessary condition
+559,Qualified,22,"Past tense for to be, or to make properly entitled to be, classed in a particular way"
+560,Qualified,23,Past tense for to characterize something by listing its qualities
+561,Qualified,24,Past tense for to make (something) less severe or extreme
+562,Qualified,25,"Past tense for to slightly modify, especially of a statement by adding reservations or conditions"
+563,Qualified,26,Past tense for to represent or estimate at less than the true value or significance
+564,Qualified,27,Past tense for to attach a label to
+565,Qualified,28,Past tense for to provide a substantiation or justification for
+566,Qualified,29,Past tense for distinguish
+567,Qualified,30,Past tense for to excuse or be a good reason for
+568,Qualified,31,Past tense for to say or write as a reaction
+569,Qualified,32,"Past tense for to learn or be taught through sustained practice, study or instruction"
+570,Qualified,33,"Past tense for quell the anger, agitation, or excitement of"
+571,Qualified,34,Past tense for to cause to proceed or move at a slower pace
+572,Wholehearted,0,Having unconditional and enthusiastic support
+573,Wholehearted,1,Exhibiting enthusiasm or strong passion
+574,Wholehearted,2,Expressing something forcibly and clearly
+575,Wholehearted,3,Warm and friendly
+576,Wholehearted,4,Denotes a constructive or productive feeling
+577,Wholehearted,5,Effusive or exaggerated in one's manner or expression
+578,Unique,0,"Being the only one of its kind, typically unique or special in some respect"
+579,Unique,1,Distinctive to a person or thing
+580,Unique,2,"Characteristic or, or particular to, someone or something"
+581,Unique,3,Strange or outside of the norm
+582,Unique,4,"Being a single, sole or solitary member a kind, type, or class"
+583,Unique,5,"Extraordinarily, exceptionally or wonderfully rare"
+584,Unique,6,Inconceivable or mind-boggling
+585,Unique,7,"Modern, unfamiliar, or different"
+586,Unique,8,Differing from or in conflict with each other
+587,Unique,9,Inspiring or feeling hope and optimism
+588,Unique,10,"Unique, such that it cannot be mistaken for something else"
+589,Unique,11,Belonging or relating exclusively or distinctively to
+590,Unique,12,Holding one's attention
+591,Unique,13,(rare) Something unequaled or unparalleled
+592,Thorough,0,Complete with regard to every detail
+593,Thorough,1,Performed or written with great care and completeness
+594,Thorough,2,To an absolute degree
+595,Thorough,3,Accurate or correct in all details
+596,Thorough,4,"Firmly established and unlikely to change, especially of a habit or belief"
+597,Thorough,5,Not expurgated
+598,Thorough,6,Arranged or carried out with a planned or organized method or procedure
+599,Thorough,7,"Detailed and complicated in design and planning, involving many carefully arranged elements"
+600,Thorough,8,Done competently but without flair
+601,Thorough,9,"Extremely great, severe, or impressive"
+602,Thorough,10,Deeply investigatory or exploratory in nature
+603,Thorough,11,Implanted within the body
+604,Thorough,12,"Having, showing, or done with good judgment or sense"
+605,Thorough,13,"Making great demands on one's skill, attention, or other resources"
+606,Structured,0,Organized or planned in a structured manner
+607,Structured,1,Designed or defined in a structured manner
+608,Structured,2,(of a system) Capable of maximizing productivity at no expense of extra resources
+609,Structured,3,To have created or formed something
+610,Structured,4,To have set up on a long-term basis
+611,Coherent,0,Able to be understood or comprehended
+612,Coherent,1,Expressed in a fluent or articulate manner
+613,Coherent,2,"Based on, or displaying, common sense, logic, or rationality"
+614,Coherent,3,"Consistent, compatible, or in agreement with"
+615,Coherent,4,(of a system) Capable of maximizing productivity at no expense of extra resources
+616,Coherent,5,Having or showing good sense or judgment
+617,Coherent,6,With various parts or aspects linked or coordinated
+618,Coherent,7,Free from defect or error
+619,Coherent,8,Sticking together
+620,Impartial,0,"Treating all parties, rivals, or disputants equally"
+621,Impartial,1,Showing a lack of interest or care
+622,Impartial,2,Having sound or fair judgment based on good sense
+623,Impartial,3,Of judges or the administration of justice
+624,Impartial,4,Wavering in one's opinion
+625,Impartial,5,Totally fairly and undoubtedly
+626,Tireless,0,"Indefatigable, untiring, or inexhaustible"
+627,Tireless,1,"Hard-working, diligent or regular (in attendance or work)"
+628,Tireless,2,"Full of life, spirit and energy"
+629,Tireless,3,Continuing over a (usually extended) period of time
+630,Tireless,4,Incapable of being tired
+631,Tireless,5,"Hectic, full of work or activities"
+632,Diplomatic,0,Having or showing an ability to deal with people in a sensitive and tactful way
+633,Diplomatic,1,Of or concerning diplomacy
+634,Diplomatic,2,"Marked by charm, confidence and elegance"
+635,Diplomatic,3,Dignified or diplomatic in one's dealing with others
+636,Diplomatic,4,Relating to the government or public affairs of a country
+637,Diplomatic,5,Acting or tending to diminish or avoid conflict or hostility
+638,Diplomatic,6,Deemed acceptable or appropriate by society
+639,Diplomatic,7,Of or pertaining to euphemism
+640,Diplomatic,8,Inclined to avoid conflict or aggression
+641,Diplomatic,9,"Of, relating to, or involving two or more governments"
+642,Diplomatic,10,Awe-inspiring
+643,Diplomatic,11,Having or displaying an appreciation of the feelings of others
+644,Diplomatic,12,Following the established standards of behavior or manners
+645,Diplomatic,13,Relating to the identification of long-term goals and the means of achieving them
+646,Diplomatic,14,Of having a good-natured or casual personality
+647,Charming,0,Pleasantly appealing or attractive
+648,Charming,1,(of a person) Having a charismatic and likable manner or personality
+649,Charming,2,Having charming good looks
+650,Charming,3,"Friendly, good-natured, or easy to talk to"
+651,Charming,4,Causing laughter and providing entertainment
+652,Charming,5,"Which attempts to bring oneself into the favour of another, often with flattery or insincerity"
+653,Charming,6,Much loved
+654,Charming,7,Having a persuasive effect
+655,Charming,8,To be arousing someone
+656,Charming,9,Causing of amazement
+657,Charming,10,"Present participle for to delight greatly, especially with a performance"
+658,Charming,11,"Present participle for to convince, influence or obtain using personal charm"
+659,Charming,12,Present participle for to cause someone to feel attraction by personal charm
+660,Charming,13,Present participle for to cast a magical charm or spell on
+661,Skilled,0,Having or showing (great) skill
+662,Skilled,1,Involving or characterized by scholarship
+663,Skilled,2,Able to deal with people in a sensitive manner
+664,Skilled,3,Having all its feathers
+665,Ideal,0,Being the most suitable
+666,Ideal,1,"Of, involving, or existing only as a fanciful idea"
+667,Ideal,2,Representing an abstract or hypothetical optimum
+668,Ideal,3,Being a representative model of
+669,Ideal,4,Appropriate or suitable in the circumstances
+670,Ideal,5,"Extraordinarily, exceptionally or wonderfully rare"
+671,Ideal,6,Exceptional or superior beyond the ordinary
+672,Ideal,7,"Of great excellence, grandeur or beauty"
+673,Ideal,8,Preferred to all others of the same kind
+674,Ideal,9,Having great physical beauty
+675,Ideal,10,Inspiring or feeling hope and optimism
+676,Ideal,11,A model by which others are compared and aspire to
+677,Ideal,12,A person or thing that is a perfect example of a particular quality or type
+678,Ideal,13,A standard or principle to be aimed at
+679,Ideal,14,An aim or end result that one hopes to achieve
+680,Ideal,15,Moral principles that govern the conduct of a person or organization
+681,Ideal,16,A woman who is greatly admired for her accomplishments
+682,Ideal,17,A world in which everything and everyone works in perfect harmony
+683,Ideal,18,"Something that is wished for, or considered desirable"
+684,Ideal,19,"Something that exhibits exceptional quality, something worth being shown"
+685,Ideal,20,A set of principles or beliefs
+686,Ideal,21,"A vivid mental image, especially a fanciful one of the future"
+687,Ideal,22,A person of major significance
+688,Ideal,23,"Morality, generally or collectively"
+689,Ideal,24,A action or task to be performed
+690,Smooth,0,"Having an even surface with no roughness, bumps, or holes"
+691,Smooth,1,Having a glossy finish
+692,Smooth,2,Having a very fine texture to touch
+693,Smooth,3,Free from interruptions or stoppages
+694,Smooth,4,Without obstructions or difficulties
+695,Smooth,5,"Polite, elegant, and sophisticated in manner"
+696,Smooth,6,Not harsh in taste
+697,Smooth,7,(of voice or tone) Sweet or melodious to the ear
+698,Smooth,8,(of a body of water) Placid and undisturbed
+699,Smooth,9,"Having a smooth texture or consistency, free from lumps"
+700,Smooth,10,"Lacking in, or devoid of, hair"
+701,Smooth,11,Excessive in obsequious praise or flattery
+702,Smooth,12,Moving gracefully with ease
+703,Smooth,13,"Showing or having skill, especially with the hands"
+704,Smooth,14,Having or being a slippery surface
+705,Smooth,15,Able to persuade or convince
+706,Smooth,16,Clever at achieving one's aims by indirect or deceitful methods
+707,Smooth,17,"Fluent and easy, often in an insincere or deceptive way"
+708,Smooth,18,"Having or showing keen discernment, sound judgment, and farsightedness"
+709,Smooth,19,Without wrinkles or ruffles
+710,Smooth,20,Tending to talk a lot
+711,Smooth,21,Not blocked
+712,Smooth,22,Designed or configured to run smoothly or efficiently
+713,Smooth,23,Having a streamlined design or structure
+714,Smooth,24,Characterized by a lack of sincerity
+715,Smooth,25,Well-defined and pleasing in shape or form
+716,Smooth,26,(slang) Smart in appearance
+717,Smooth,27,Pressed
+718,Smooth,28,"Without defects or blemishes, including freckles or knots"
+719,Smooth,29,"Smooth, buttery"
+720,Smooth,30,Free from defect or error
+721,Smooth,31,Resembling moss or some aspect of it
+722,Smooth,32,Bitingly or humorously intelligent in nature
+723,Smooth,33,(of sound or color) Free from anything that dulls or dims
+724,Smooth,34,(of a man) Aesthetically pleasing to view or look at
+725,Smooth,35,Able to be read or deciphered
+726,Smooth,36,Easy or enjoyable to read
+727,Smooth,37,"Very fine, thin or flimsy in structure or material"
+728,Smooth,38,The pleasantness of warm and sunny weather
+729,Smooth,39,"To free from breaks, curves, or bumps"
+730,Smooth,40,To hasten or facilitate the progress of
+731,Smooth,41,"(smooth over) To resolve, or work towards resolving an issue or conflict"
+732,Smooth,42,To make smooth or glossy by applying surface pressure
+733,Smooth,43,"To spend time improving one's appearance, often in front of a mirror"
+734,Smooth,44,Make uniform in application or effect
+735,Smooth,45,Settle differences
+736,Smooth,46,To act as a mediator between two parties
+737,Smooth,47,To improve in quality or accuracy
+738,Smooth,48,"To apply massage or knead, especially with one's hands"
+739,Smooth,49,To apply as a coating
+740,Smooth,50,To hit lightly and repeatedly with to make flat or to change the shape of
+741,Smooth,51,To apply a substance such as oil or grease to (an engine or component) so as to minimize friction and allow smooth movement
+742,Smooth,52,To smear or rub over with oil or an unctuous substance
+743,Smooth,53,Make uniform or similar
+744,Smooth,54,"To apply a surface or layer to something, especially for protection"
+745,Instrumental,0,Serving as an effective means of pursuing an aim or goal
+746,Instrumental,1,"Being, or related to, a musical composition, typically without lyrics"
+747,Instrumental,2,"(music) Without words or lyrics, using only instruments"
+748,Instrumental,3,Producing an advantage or benefit
+749,Instrumental,4,Of great or significant value
+750,Instrumental,5,Exerting power over the minds or behavior of others
+751,Instrumental,6,Able to be utilized
+752,Instrumental,7,(of an object or situation) Significant in degree of importance or urgency
+753,Instrumental,8,"Serving as an instrument or means, typically in law"
+754,Instrumental,9,"A musical composition, typically written or performed without lyrics"
+755,Attentive,0,Being alert or on top of things by paying close attention
+756,Attentive,1,"Absorbed or engrossed, usually with something that is being presented"
+757,Attentive,2,Assiduously attending to the comfort or wishes of others
+758,Attentive,3,"Hard-working, diligent or regular (in attendance or work)"
+759,Attentive,4,Careful and prudent in one's speech or actions
+760,Attentive,5,"Accepting of one's legal or moral obligations and willing to do them well, and without complaint"
+761,Attentive,6,"Tending to ask questions or to investigate, typically for information or knowledge"
+762,Attentive,7,Loving and affectionate towards (someone) in a close relationship
+763,Attentive,8,Having or displaying an appreciation of the feelings of others
+764,Attentive,9,Very loyal in nature
+765,Attentive,10,Ready and willing
+766,Attentive,11,Devoted completely to one object
+767,Attentive,12,Involved in a given matter
+768,Attentive,13,Expressing or involving deep thought
+769,Attentive,14,Continuing stubbornly or tenaciously despite challenges
+770,Attentive,15,On the ball
